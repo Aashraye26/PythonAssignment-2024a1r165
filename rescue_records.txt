@@ -1,0 +1,3 @@
+101|Green Oven Bakery|Baked Food|8.5|3
+102|Fresh Mart|Veegtables|12.0|8
+103|City Restaurant|Cooked Food|20.0|18
